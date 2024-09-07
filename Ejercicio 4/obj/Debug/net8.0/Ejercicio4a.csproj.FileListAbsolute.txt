@@ -1,0 +1,60 @@
+C:\Users\Andres\source\repos\Ejercicio4a\bin\Debug\net8.0\Ejercicio4a.exe
+C:\Users\Andres\source\repos\Ejercicio4a\bin\Debug\net8.0\Ejercicio4a.deps.json
+C:\Users\Andres\source\repos\Ejercicio4a\bin\Debug\net8.0\Ejercicio4a.runtimeconfig.json
+C:\Users\Andres\source\repos\Ejercicio4a\bin\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio4a\bin\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.sourcelink.json
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\refint\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\Ejercicio4a.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Ejercicio4a\obj\Debug\net8.0\ref\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.exe
+C:\Users\Andres\source\repos\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.deps.json
+C:\Users\Andres\source\repos\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.runtimeconfig.json
+C:\Users\Andres\source\repos\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.sourcelink.json
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\refint\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Ejercicio 4 vf\obj\Debug\net8.0\ref\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.exe
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.deps.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.runtimeconfig.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\bin\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.sourcelink.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\refint\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\Ejercicio4a.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4 vf\obj\Debug\net8.0\ref\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\bin\Debug\net8.0\Ejercicio4a.exe
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\bin\Debug\net8.0\Ejercicio4a.deps.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\bin\Debug\net8.0\Ejercicio4a.runtimeconfig.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\bin\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\bin\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.sourcelink.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\refint\Ejercicio4a.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\Ejercicio4a.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 4\obj\Debug\net8.0\ref\Ejercicio4a.dll
