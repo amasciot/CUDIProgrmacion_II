@@ -1,0 +1,30 @@
+C:\Users\Andres\source\repos\Ejercicio20\bin\Debug\net8.0\Ejercicio20.exe
+C:\Users\Andres\source\repos\Ejercicio20\bin\Debug\net8.0\Ejercicio20.deps.json
+C:\Users\Andres\source\repos\Ejercicio20\bin\Debug\net8.0\Ejercicio20.runtimeconfig.json
+C:\Users\Andres\source\repos\Ejercicio20\bin\Debug\net8.0\Ejercicio20.dll
+C:\Users\Andres\source\repos\Ejercicio20\bin\Debug\net8.0\Ejercicio20.pdb
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.sourcelink.json
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.dll
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\refint\Ejercicio20.dll
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.pdb
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\Ejercicio20.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Ejercicio20\obj\Debug\net8.0\ref\Ejercicio20.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\bin\Debug\net8.0\Ejercicio20.exe
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\bin\Debug\net8.0\Ejercicio20.deps.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\bin\Debug\net8.0\Ejercicio20.runtimeconfig.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\bin\Debug\net8.0\Ejercicio20.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\bin\Debug\net8.0\Ejercicio20.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.sourcelink.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\refint\Ejercicio20.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\Ejercicio20.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 20\obj\Debug\net8.0\ref\Ejercicio20.dll
