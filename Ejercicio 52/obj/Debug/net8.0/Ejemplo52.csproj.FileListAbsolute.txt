@@ -1,0 +1,30 @@
+C:\Users\Andres\source\repos\Ejemplo52\bin\Debug\net8.0\Ejemplo52.exe
+C:\Users\Andres\source\repos\Ejemplo52\bin\Debug\net8.0\Ejemplo52.deps.json
+C:\Users\Andres\source\repos\Ejemplo52\bin\Debug\net8.0\Ejemplo52.runtimeconfig.json
+C:\Users\Andres\source\repos\Ejemplo52\bin\Debug\net8.0\Ejemplo52.dll
+C:\Users\Andres\source\repos\Ejemplo52\bin\Debug\net8.0\Ejemplo52.pdb
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.sourcelink.json
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.dll
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\refint\Ejemplo52.dll
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.pdb
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\Ejemplo52.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Ejemplo52\obj\Debug\net8.0\ref\Ejemplo52.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\bin\Debug\net8.0\Ejemplo52.exe
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\bin\Debug\net8.0\Ejemplo52.deps.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\bin\Debug\net8.0\Ejemplo52.runtimeconfig.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\bin\Debug\net8.0\Ejemplo52.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\bin\Debug\net8.0\Ejemplo52.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.sourcelink.json
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\refint\Ejemplo52.dll
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.pdb
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\Ejemplo52.genruntimeconfig.cache
+C:\Users\Andres\source\repos\Entrega\Ejercicio 52\obj\Debug\net8.0\ref\Ejemplo52.dll
